@@ -1,8 +1,6 @@
 //Tech Dry Run
 
-var hrr18 = {
-  name: 'hi seth'
+var hrr19 = {
+  shepherd: 'c-dizzy'
 }
-
-
 
